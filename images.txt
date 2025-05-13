@@ -1,2 +1,2 @@
 python:3.10-slim
-neo4j:4.4.16-community
+--platform=linux/arm64 neo4j:4.4.16-community
