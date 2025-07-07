@@ -2,3 +2,4 @@ python:3.10-slim
 --platform=linux/arm64 neo4j:4.4.16-community
 python:3.11.13-bookworm
 ollama/ollama:0.9.1
+hiyouga/verl:ngc-th2.7.0-cu12.6-vllm0.9.1
